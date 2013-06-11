@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Jo
 Peace - sfasfsfs
 =======
@@ -6,3 +7,8 @@ Jo Kuy
 Peace
 >>>>>>> b2176cf147dd04f60dae3c3d4c5d99739d56c39e
 New
+=======
+Jo Kuy
+Peace
+New write
+>>>>>>> 35c38962d8dcd5677661e7d00b3a4350d6390da9
